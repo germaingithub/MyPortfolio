@@ -72,7 +72,7 @@
     font-weight: 700;
     background-color: black;
     animation: loader;
-    animation-delay: 0s;
+    animation-delay: 3s;
     animation-fill-mode: both;
     z-index: 100;
 }
@@ -109,4 +109,8 @@
 
 #body {
     background-image: url(https://images.unsplash.com/photo-1487088678257-3a541e6e3922?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1267&q=80);
+}
+
+#welcome {
+    color: #0c0d0d;
 }
