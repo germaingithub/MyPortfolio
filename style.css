@@ -85,7 +85,8 @@
 }
 #footer {
     display: flex;
-    margin: auto;
+    margin-left: 20px;
+    margin-right: 20px;
     background-color:#0c0d0d;
     padding-bottom: 10px;
    box-shadow: rgb(209, 209, 209) 3px 3px 20px 7px
@@ -107,5 +108,5 @@
 }
 
 #body {
-    background-image: url(/images/mur.jpg);
+    background-image: url(https://images.unsplash.com/photo-1487088678257-3a541e6e3922?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1267&q=80);
 }
