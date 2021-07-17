@@ -86,8 +86,9 @@
 #footer {
     display: flex;
     margin: auto;
-    background-image: url(https://images.unsplash.com/photo-1531398956050-f9a5743a68b8?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1267&q=80);
+    background-color:#0c0d0d;
     padding-bottom: 10px;
+   box-shadow: rgb(209, 209, 209) 3px 3px 20px 7px
 }
 
 #carouselExampleFade {
@@ -103,4 +104,8 @@
 #projet {
     background-color: #067790;
      
+}
+
+#body {
+    background-image: url(/images/mur.jpg);
 }
